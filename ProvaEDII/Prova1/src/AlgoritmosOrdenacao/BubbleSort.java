@@ -2,7 +2,7 @@ package AlgoritmosOrdenacao;
 
 public class BubbleSort {
 	protected static int n, i, aux;
-	public static int comparacoes=0; 
+	public static long comparacoes=0; 
 	public static int trocas = 0;
 	
 	//ordenação de forma crescente
